@@ -8,7 +8,8 @@ Mashup Studio is a full-stack Python project that automatically downloads multip
 
 ## 🖼️ UI Preview
 
-![Mashup Studio UI](assets/ui-preview.png)
+![Mashup Studio UI](Mashup_Studio/assets/ui-preview.png)
+
 
 ---
 
