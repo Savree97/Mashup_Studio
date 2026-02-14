@@ -148,8 +148,9 @@ This project demonstrates:
 
 ## 📌 Author
 
-Savree Dohar
-Developed as part of the UCS654 Mashup Assignment  
+Savree Dohar  
+
+Developed as part of the UCS654 Mashup Assignment.
 
 ---
 
